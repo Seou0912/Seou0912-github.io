@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Hi! welcom~ Seou's Devlop github Page.!"
+categories: coding
 ---
+
 ### while운 목차
 1. while은 안들어보기  
 2. while운 코드의 흐름 보기  
