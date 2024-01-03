@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seou's Develop Diary!"
+title                    : "마녀의 코딩 스프!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "서 우" 
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Jung Seo u"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **witch_DeV** person."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:myuni0912@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
